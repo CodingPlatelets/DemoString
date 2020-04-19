@@ -23,5 +23,11 @@ public class Main {
 //        直接创建
         String str4 = "Hello!";
         System.out.println("The  : "+ str4);
+
+
+        System.out.println("Hello world!");
+
+        str s = new str();
+        s.demo01();
     }
 }
