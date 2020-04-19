@@ -27,7 +27,7 @@ public class Main {
 
         System.out.println("Hello world!");
 
-        str s = new str();
-        s.demo01();
+//        str s = new str();
+//        s.demo01();
     }
 }
