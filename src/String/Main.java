@@ -10,6 +10,7 @@ public class Main {
         String str1 = new String();
         System.out.println("The first : "+ str1);
 
+
 //        使用字符数组构造
         char [] CharArray = {'A','B','C'};
         String str2 = new String(CharArray);
@@ -25,7 +26,7 @@ public class Main {
         System.out.println("The  : "+ str4);
 
 
-        System.out.println("Hello world!");
+//        System.out.println("Hello world!");
 
 //        str s = new str();
 //        s.demo01();
